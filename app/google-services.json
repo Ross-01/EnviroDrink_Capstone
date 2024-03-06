@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003835718689",
+    "project_id": "envirodrink-capstone",
+    "storage_bucket": "envirodrink-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003835718689:android:0c9b03a41985aa82ccf760",
+        "android_client_info": {
+          "package_name": "com.example.envirodrink_capstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyEJtJW0sZOO4y5NhD3At62VuzGui2npg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003835718689:android:9622144dace5acfbccf760",
+        "android_client_info": {
+          "package_name": "com.example.envirodrink_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyEJtJW0sZOO4y5NhD3At62VuzGui2npg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
